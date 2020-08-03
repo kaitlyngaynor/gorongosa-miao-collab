@@ -43,4 +43,5 @@ vignettes/*.pdf
 .DS_Store
 
 S3_pickout
-pickout
+S3_pickout_soft_iter_080320
+S3_pickout_073020
